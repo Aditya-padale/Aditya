@@ -1,3 +1,4 @@
+# GitHub Space Shooter Workflow
 name: Update Space Shooter GIF
 on:
  schedule:
